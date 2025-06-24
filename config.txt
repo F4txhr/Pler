@@ -164,26 +164,47 @@
       "outbounds": [
         "Best Latency",
         "🇨🇳 Aliyun Computing Co 1",
-        "🇩🇪 139.162.0.0/ 2",
-        "🇩🇪 Hetzner Online GmbH 3",
-        "🇩🇪 MassiveGRID 4",
-        "🇩🇪 NET 45 95 80 0 5",
-        "🇩🇪 OVH GmbH 6",
+        "🇨🇳 Aliyun Computing Co 2",
+        "🇩🇪 - 3",
+        "🇩🇪 Hetzner Online GmbH 4",
+        "🇩🇪 MassiveGRID 5",
+        "🇩🇪 - 6",
         "🇩🇪 OVH GmbH 7",
-        "🇩🇪 Partner Hosting LTD 8",
-        "🇩🇪 Witine Limited 9",
-        "🇫🇮 HOSTKEY B.V. 10",
-        "🇫🇮 Hetzner Online GmbH 11",
+        "🇩🇪 OVH GmbH 8",
+        "🇩🇪 Partner Hosting LTD 9",
+        "🇩🇪 Witine Limited 10",
+        "🇫🇮 HOSTKEY B.V. 11",
         "🇫🇮 Hetzner Online GmbH 12",
-        "🇫🇮 PSERVERS Enterprise Network 13",
-        "🇫🇮 WorkTitans B.V. 14",
-        "🇫🇮 as56971 network 15",
-        "🇫🇷 Jules Durand--Arnaudet 16",
-        "🇫🇷 NET 109 176 244 0 17",
-        "🇫🇷 OVH SAS 18",
+        "🇫🇮 Hetzner Online GmbH 13",
+        "🇫🇮 PSERVERS Enterprise Network 14",
+        "🇫🇮 WorkTitans B.V. 15",
+        "🇫🇮 - 16",
+        "🇫🇷 Jules Durand--Arnaudet 17",
+        "🇫🇷 - 18",
         "🇫🇷 OVH SAS 19",
         "🇫🇷 OVH SAS 20",
-        "🇳🇱 FIRST SERVER LIMITED 21",
+        "🇫🇷 OVH SAS 21",
+        "🇯🇵 Vultr Holdings 22",
+        "🇯🇵 Vultr Holdings 23",
+        "🇯🇵 Vultr Holdings 24",
+        "🇯🇵 Vultr Holdings 25",
+        "🇯🇵 Vultr Holdings 26",
+        "🇯🇵 Jurgita Jurgaitiene trading as LOCOTORPI 27",
+        "🇯🇵 Microsoft Corporation 28",
+        "🇯🇵 Oracle Corporation 29",
+        "🇯🇵 Oracle Corporation 30",
+        "🇯🇵 Oracle Corporation 31",
+        "🇯🇵 Oracle Corporation 32",
+        "🇯🇵 Oracle Public Cloud 33",
+        "🇯🇵 Oracle Public Cloud 34",
+        "🇯🇵 TYO_VULTR_CUST 35",
+        "🇯🇵 WorkTitans B.V. 36",
+        "🇯🇵 WorkTitans B.V. 37",
+        "🇯🇵 WorkTitans B.V. 38",
+        "🇯🇵 WorkTitans B.V. 39",
+        "🇯🇵 imported inetnum object for OCPL- 40",
+        "🇯🇵 imported inetnum object for OCPL- 41",
+        "🇳🇱 FIRST SERVER LIMITED 42",
         "direct"
       ]
     },
@@ -192,26 +213,47 @@
       "tag": "Best Latency",
       "outbounds": [
         "🇨🇳 Aliyun Computing Co 1",
-        "🇩🇪 139.162.0.0/ 2",
-        "🇩🇪 Hetzner Online GmbH 3",
-        "🇩🇪 MassiveGRID 4",
-        "🇩🇪 NET 45 95 80 0 5",
-        "🇩🇪 OVH GmbH 6",
+        "🇨🇳 Aliyun Computing Co 2",
+        "🇩🇪 - 3",
+        "🇩🇪 Hetzner Online GmbH 4",
+        "🇩🇪 MassiveGRID 5",
+        "🇩🇪 - 6",
         "🇩🇪 OVH GmbH 7",
-        "🇩🇪 Partner Hosting LTD 8",
-        "🇩🇪 Witine Limited 9",
-        "🇫🇮 HOSTKEY B.V. 10",
-        "🇫🇮 Hetzner Online GmbH 11",
+        "🇩🇪 OVH GmbH 8",
+        "🇩🇪 Partner Hosting LTD 9",
+        "🇩🇪 Witine Limited 10",
+        "🇫🇮 HOSTKEY B.V. 11",
         "🇫🇮 Hetzner Online GmbH 12",
-        "🇫🇮 PSERVERS Enterprise Network 13",
-        "🇫🇮 WorkTitans B.V. 14",
-        "🇫🇮 as56971 network 15",
-        "🇫🇷 Jules Durand--Arnaudet 16",
-        "🇫🇷 NET 109 176 244 0 17",
-        "🇫🇷 OVH SAS 18",
+        "🇫🇮 Hetzner Online GmbH 13",
+        "🇫🇮 PSERVERS Enterprise Network 14",
+        "🇫🇮 WorkTitans B.V. 15",
+        "🇫🇮 - 16",
+        "🇫🇷 Jules Durand--Arnaudet 17",
+        "🇫🇷 - 18",
         "🇫🇷 OVH SAS 19",
         "🇫🇷 OVH SAS 20",
-        "🇳🇱 FIRST SERVER LIMITED 21",
+        "🇫🇷 OVH SAS 21",
+        "🇯🇵 Vultr Holdings 22",
+        "🇯🇵 Vultr Holdings 23",
+        "🇯🇵 Vultr Holdings 24",
+        "🇯🇵 Vultr Holdings 25",
+        "🇯🇵 Vultr Holdings 26",
+        "🇯🇵 Jurgita Jurgaitiene trading as LOCOTORPI 27",
+        "🇯🇵 Microsoft Corporation 28",
+        "🇯🇵 Oracle Corporation 29",
+        "🇯🇵 Oracle Corporation 30",
+        "🇯🇵 Oracle Corporation 31",
+        "🇯🇵 Oracle Corporation 32",
+        "🇯🇵 Oracle Public Cloud 33",
+        "🇯🇵 Oracle Public Cloud 34",
+        "🇯🇵 TYO_VULTR_CUST 35",
+        "🇯🇵 WorkTitans B.V. 36",
+        "🇯🇵 WorkTitans B.V. 37",
+        "🇯🇵 WorkTitans B.V. 38",
+        "🇯🇵 WorkTitans B.V. 39",
+        "🇯🇵 imported inetnum object for OCPL- 40",
+        "🇯🇵 imported inetnum object for OCPL- 41",
+        "🇳🇱 FIRST SERVER LIMITED 42",
         "direct"
       ],
       "url": "https://www.gstatic.com/generate_204",
@@ -222,26 +264,47 @@
       "tag": "Lock Region ID",
       "outbounds": [
         "🇨🇳 Aliyun Computing Co 1",
-        "🇩🇪 139.162.0.0/ 2",
-        "🇩🇪 Hetzner Online GmbH 3",
-        "🇩🇪 MassiveGRID 4",
-        "🇩🇪 NET 45 95 80 0 5",
-        "🇩🇪 OVH GmbH 6",
+        "🇨🇳 Aliyun Computing Co 2",
+        "🇩🇪 - 3",
+        "🇩🇪 Hetzner Online GmbH 4",
+        "🇩🇪 MassiveGRID 5",
+        "🇩🇪 - 6",
         "🇩🇪 OVH GmbH 7",
-        "🇩🇪 Partner Hosting LTD 8",
-        "🇩🇪 Witine Limited 9",
-        "🇫🇮 HOSTKEY B.V. 10",
-        "🇫🇮 Hetzner Online GmbH 11",
+        "🇩🇪 OVH GmbH 8",
+        "🇩🇪 Partner Hosting LTD 9",
+        "🇩🇪 Witine Limited 10",
+        "🇫🇮 HOSTKEY B.V. 11",
         "🇫🇮 Hetzner Online GmbH 12",
-        "🇫🇮 PSERVERS Enterprise Network 13",
-        "🇫🇮 WorkTitans B.V. 14",
-        "🇫🇮 as56971 network 15",
-        "🇫🇷 Jules Durand--Arnaudet 16",
-        "🇫🇷 NET 109 176 244 0 17",
-        "🇫🇷 OVH SAS 18",
+        "🇫🇮 Hetzner Online GmbH 13",
+        "🇫🇮 PSERVERS Enterprise Network 14",
+        "🇫🇮 WorkTitans B.V. 15",
+        "🇫🇮 - 16",
+        "🇫🇷 Jules Durand--Arnaudet 17",
+        "🇫🇷 - 18",
         "🇫🇷 OVH SAS 19",
         "🇫🇷 OVH SAS 20",
-        "🇳🇱 FIRST SERVER LIMITED 21"
+        "🇫🇷 OVH SAS 21",
+        "🇯🇵 Vultr Holdings 22",
+        "🇯🇵 Vultr Holdings 23",
+        "🇯🇵 Vultr Holdings 24",
+        "🇯🇵 Vultr Holdings 25",
+        "🇯🇵 Vultr Holdings 26",
+        "🇯🇵 Jurgita Jurgaitiene trading as LOCOTORPI 27",
+        "🇯🇵 Microsoft Corporation 28",
+        "🇯🇵 Oracle Corporation 29",
+        "🇯🇵 Oracle Corporation 30",
+        "🇯🇵 Oracle Corporation 31",
+        "🇯🇵 Oracle Corporation 32",
+        "🇯🇵 Oracle Public Cloud 33",
+        "🇯🇵 Oracle Public Cloud 34",
+        "🇯🇵 TYO_VULTR_CUST 35",
+        "🇯🇵 WorkTitans B.V. 36",
+        "🇯🇵 WorkTitans B.V. 37",
+        "🇯🇵 WorkTitans B.V. 38",
+        "🇯🇵 WorkTitans B.V. 39",
+        "🇯🇵 imported inetnum object for OCPL- 40",
+        "🇯🇵 imported inetnum object for OCPL- 41",
+        "🇳🇱 FIRST SERVER LIMITED 42"
       ]
     },
     {
@@ -363,7 +426,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Aliyun Computing Co",
+      "country": "CN"
     },
     {
       "type": "vless",
@@ -391,7 +456,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "-",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -419,7 +486,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Hetzner Online GmbH",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -447,7 +516,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "MassiveGRID",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -475,7 +546,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "-",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -503,7 +576,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "OVH GmbH",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -531,7 +606,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "OVH GmbH",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -559,7 +636,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Partner Hosting LTD",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -587,7 +666,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Witine Limited",
+      "country": "DE"
     },
     {
       "type": "vless",
@@ -615,7 +696,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "HOSTKEY B.V.",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -643,7 +726,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Hetzner Online GmbH",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -671,7 +756,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Hetzner Online GmbH",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -699,7 +786,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "PSERVERS Enterprise Network",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -727,7 +816,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "WorkTitans B.V.",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -755,7 +846,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "-",
+      "country": "FI"
     },
     {
       "type": "vless",
@@ -783,7 +876,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "Jules Durand--Arnaudet",
+      "country": "FR"
     },
     {
       "type": "vless",
@@ -811,7 +906,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "-",
+      "country": "FR"
     },
     {
       "type": "vless",
@@ -839,7 +936,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "OVH SAS",
+      "country": "FR"
     },
     {
       "type": "vless",
@@ -867,7 +966,9 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "OVH SAS",
+      "country": "FR"
     },
     {
       "type": "vless",
@@ -895,11 +996,1191 @@
         "headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         }
-      }
+      },
+      "provider": "OVH SAS",
+      "country": "FR"
     },
     {
       "type": "vless",
       "tag": "🇳🇱 FIRST SERVER LIMITED 21",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "1a065f23-f8fd-4be6-bde8-e69f483fba89",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.94.164.72-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      },
+      "provider": "FIRST SERVER LIMITED",
+      "country": "NL"
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇳 Aliyun Computing Co 1",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "8df74eae-d46d-4a59-b4b0-9ea1f911d28f",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/47.111.229.11-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇳 Aliyun Computing Co 2",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "8df74eae-d46d-4a59-b4b0-9ea1f911d28f",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/47.111.229.11-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 - 3",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "291967e5-610a-4346-8f7d-e9207c09d8f1",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/139.162.145.35-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Hetzner Online GmbH 4",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "611235ee-027e-4af6-8f22-038c61eb045a",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/91.107.140.10-8080",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 MassiveGRID 5",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "32647645-fb3f-4908-8be5-fd64c9b6d1fa",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.189.58.206-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 - 6",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "e01fa1be-ee95-4b33-a5c1-30f5266fa1b1",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.95.80.203-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 OVH GmbH 7",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "8d385332-e977-40b3-825a-f78f1d302880",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57.129.14.56-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 OVH GmbH 8",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "96ca0d19-29cc-4f66-a6b8-6edcc2b913c6",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/162.19.247.245-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Partner Hosting LTD 9",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "235d431d-b5bf-4ecb-83f6-127dc0f11611",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/147.45.45.136-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 Witine Limited 10",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "ab1e3655-7255-45c4-bc7b-1aa6d8aed3d7",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/82.117.245.9-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 HOSTKEY B.V. 11",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "f6dcb497-20ca-4d47-b4e9-99551a1a5b69",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/66.151.34.172-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 Hetzner Online GmbH 12",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "f3422a4f-a337-4f0e-bcfd-9e3e6eba7e4c",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/65.109.220.185-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 Hetzner Online GmbH 13",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "8a04fa82-310b-456e-9686-cda8a2ca02ec",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/135.181.100.88-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 PSERVERS Enterprise Network 14",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "3dba8e90-ea79-4901-87a4-78c9a25b4009",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.105.118.135-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 WorkTitans B.V. 15",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "81b29d48-4f20-4c3a-bcfd-522dc0d31f4c",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/94.131.100.225-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮 - 16",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "a8600a21-eb15-4d55-ae7d-09dc2f3d9082",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.228.235.67-2096",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 Jules Durand--Arnaudet 17",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "7be9560d-ca64-4db6-af39-497628179bd1",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.112.195.103-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 - 18",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "ee78df7e-910c-40af-808e-3ea28775b389",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/109.176.244.205-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 OVH SAS 19",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "4ca0279f-ea70-47aa-af28-a9502d1d31d9",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/51.75.29.215-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 OVH SAS 20",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "99efacb1-2ea2-483d-9634-66dbedb639e6",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/152.228.134.184-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷 OVH SAS 21",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "bf8c49b0-7c9e-43d8-bcae-aa7f53a2768f",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/54.36.103.135-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Vultr Holdings 22",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "be6e7986-fffc-420d-91a9-3b8366df6cad",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/108.160.139.154-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Vultr Holdings 23",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "e388102c-e4e8-4131-a17e-4902b20bfede",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.32.255.20-46326",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Vultr Holdings 24",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "ad292d9e-5fd1-47c8-9ace-13a27119aa6a",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.77.25.6-48828",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Vultr Holdings 25",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "833cf8e6-dbbd-4b08-ad30-bc8f246c5f45",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/149.28.21.106-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Vultr Holdings 26",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "9a48024d-fcf2-465d-9035-b2685e04b094",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/198.13.42.58-32954",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Jurgita Jurgaitiene trading as LOCOTORPI 27",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "3b6f32f1-232e-4140-bee2-838b7407d1de",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.18.222.208-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Microsoft Corporation 28",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "038e5f88-5f8e-46e1-9dbe-3cb02856a91c",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/20.243.85.49-10443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Corporation 29",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "6ba10e02-24a9-418d-8a8a-cbe8deb204f4",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/152.70.82.101-18650",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Corporation 30",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "5d1dd10d-90a5-4039-904a-266b7a6cff1b",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/150.230.206.237-9710",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Corporation 31",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "d8cbf865-4bd7-4bda-8d93-1ebaff084040",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/150.230.214.172-16957",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Corporation 32",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "e009bf60-a10c-4dcc-844d-d9327d21eb90",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/150.230.5.34-45681",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Public Cloud 33",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "65712e8c-c5be-4226-9245-f2cf3b818fac",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/140.238.62.82-1443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 Oracle Public Cloud 34",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "6db56c05-52d2-494b-8139-f71fb1ad729f",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/131.186.63.89-11655",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 TYO_VULTR_CUST 35",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "8b1a6943-93a7-4b42-886e-e1e7f05d31e7",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/202.182.124.217-56659",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 WorkTitans B.V. 36",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "7b1aa357-11f8-4431-9df4-bf023e4d92ea",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.12.134.197-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 WorkTitans B.V. 37",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "52bfb05a-761c-4b19-95e5-56a17afbd598",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/91.194.160.79-8443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 WorkTitans B.V. 38",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "83c8ed37-0175-4585-9357-3a4f8505fe54",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/91.194.160.45-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 WorkTitans B.V. 39",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "a93feb3d-48e5-4340-8b15-358c3088743a",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.12.134.197-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 imported inetnum object for OCPL- 40",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "3f336a74-51f5-4863-81dc-360cbbd9431b",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/140.83.57.114-25965",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 imported inetnum object for OCPL- 41",
+      "domain_strategy": "ipv4_only",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "64406f7d-79d4-45e3-9313-b353222bfbf4",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "multiplex": {
+        "protocol": "smux",
+        "max_streams": 32
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/140.83.37.134-46478",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 FIRST SERVER LIMITED 42",
       "domain_strategy": "ipv4_only",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
